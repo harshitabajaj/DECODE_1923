@@ -59,4 +59,3 @@ class RetweetCollector(DataCollector):
         for choice in choices:
             news_list = self.load_news_file(choice)
             collect_retweets(news_list, choice["news_source"], choice["label"], self.config)
-
