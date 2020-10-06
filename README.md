@@ -24,7 +24,5 @@ Twitter has become a very influential social media platform. Twitter statements 
 
 -[@harshitabajaj](https://github.com/harshitabajaj) - **Harshita Bajaj**
 
--[@youngbuck09](https://github.com/youngbuck09) - **Dhanesh Chaudhary**
-
 
 
