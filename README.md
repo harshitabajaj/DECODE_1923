@@ -26,6 +26,5 @@ Twitter has become a very influential social media platform. Twitter statements 
 
 -[@youngbuck09](https://github.com/youngbuck09) - **Dhanesh Chaudhary**
 
--[@jindalraghav98](https://github.com/jindalraghav98) - **Raghav Jindal**
 
 
